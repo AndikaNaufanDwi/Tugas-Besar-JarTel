@@ -6,7 +6,7 @@ List Anggota :
 4. Alden
 5. Ignacius
 
-Kumpulan File Tugas Besar Jaringan Telekomunikasi
+Kumpulan Foto Simulasi Topologi Cisco Packet Tracer 
 
 Foto Hybrid :
 
