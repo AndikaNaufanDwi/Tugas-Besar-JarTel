@@ -1,9 +1,9 @@
 SIMULASI TUGAS VESAR JARTEL ft. CISCO
 
-HYBRID (IMPORTANT)	  : Nafan (85%)
-BUS 		              : Putri (90%)
+HYBRID (IMPORTANT)	  : Nafan (85%) Kurang si bus topologi
+BUS 		              : Putri (Error Laptop) almost done
 MESH		              : Andika (Done) masih bingung untuk buka di destkop---
-STAR	            	  : Alden (Laptop lag)
+STAR	            	  : Alden (Laptop lag) udah succcessful
 
 MAKALAH
 BAB 1 PENDAHULUAN
