@@ -1,6 +1,14 @@
 SIMULASI TUGAS VESAR JARTEL ft. CISCO
 
-HYBRID (IMPORTANT)	  : Nafan
-BUS 		              : Putri
+HYBRID (IMPORTANT)	  : Nafan (85%)
+BUS 		              : Putri (90%)
 MESH		              : Andika (Done) masih bingung untuk buka di destkop---
-STAR	            	  : Alden
+STAR	            	  : Alden (Laptop lag)
+
+MAKALAH
+BAB 1 PENDAHULUAN
+BAB 2 DASAR TEORI
+BAB 3 PEMBAHASAN
+BAB 4 KESIMPULAN DAN SARAN
+
+REFRENSI (KALO BISA JURNAL JANGAN WIKIPEDIA GAES, BLOGSPOT GPP ASAL ADA WAKTU DAN NAMA PENULIS)
