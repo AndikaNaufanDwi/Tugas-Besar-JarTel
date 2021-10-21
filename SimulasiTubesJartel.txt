@@ -6,6 +6,7 @@ MESH		              : Andika (Done) masih bingung untuk buka di destkop---
 STAR	            	  : Alden (Laptop lag) udah succcessful
 
 MAKALAH
+ABSTRAK
 BAB 1 PENDAHULUAN
 BAB 2 DASAR TEORI
 BAB 3 PEMBAHASAN
